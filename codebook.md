@@ -1,6 +1,6 @@
 # Identifiers
-  subject
-  activity
+  / subject
+  / activity
   
   
 # Measurements
